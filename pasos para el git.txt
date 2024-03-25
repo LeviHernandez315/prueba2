@@ -1,0 +1,17 @@
+Instalación de git en windows
+https://www.youtube.com/watch?v=4cMSDusgWS0
+
+pasos para el subir archivos
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/LeviHernandez315/prueba2.git
+git push -u origin main
+
+pasos para bajar archivos
+
+git remote add origin https://github.com/LeviHernandez315/prueba2.git
+git branch -M main
+git push -u origin main
